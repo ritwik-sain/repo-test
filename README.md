@@ -1,1 +1,1 @@
-A sample readme script
+In this sample code we create a digital clock
